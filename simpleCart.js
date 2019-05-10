@@ -87,7 +87,7 @@
 
 				// default options
 				settings = {
-					checkout				: { type: "PayPal", email: "you@yours.com" },
+					checkout				: { type: "PayPal", email: "zonashopku@gmail.com" },
 					currency				: "USD",
 					language				: "english-us",
 
